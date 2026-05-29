@@ -148,7 +148,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(Base/name.gif);
+    background: url(Base/name);
     width: 812px;
     height: 715px;
     opacity: 0.6;
